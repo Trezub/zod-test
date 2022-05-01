@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "6e4d9a9a-dc84-45b5-80a3-9f9823bbce49",
+    "colId": "25813ec0-6e97-4633-8379-1267707b1ce0",
+    "containerId": "",
+    "name": "CreateUser",
+    "url": "http://localhost:3333/users",
+    "method": "POST",
+    "sortNum": 10000,
+    "created": "2022-05-01T06:15:27.071Z",
+    "modified": "2022-05-01T06:15:27.071Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"age\": 32,\n    \"email\": \"test@mail.com\",\n    \"name\": \"Jhon\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
